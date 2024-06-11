@@ -16,7 +16,7 @@ In order to do this, we will use [Streamlit](https://streamlit.io/), a Python fr
 
 Overview of our image segmentation app:
 
-![Overview](images/llama_app_overview.png){.thumbnail}
+![Overview](images/llama_app_overview.png)
 
 
 ## Requirements
